@@ -3,7 +3,8 @@
 
 One idea for a final class project addresses the question, how does an area’s housing supply change with resident racial demographics. There are maps showing the distribution of resident racial demographics and there are public data on housing surpluses by location. This story is timely because of increasing housing costs and recent changes in eviction moratoriums. I can talk to demographers and housing policy experts as sources for this. 
 
-Data-driven investigation critique: 
+
+**Data-driven investigation critique:** 
 [The Airbnb Effect](https://www.sfchronicle.com/airbnb-impact-san-francisco-2015/#1)
 
 *Clarity and accuracy*
@@ -54,9 +55,10 @@ The graphic was very responsive and had pop-up messages that opened and closed d
 **Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?**
 No.
 
-**For example, did it:
+**For example, did it:**
+
 **Look like it all belonged together?**
-No.
+ No.
 
 **Draw your eye first to the most important pieces of information?**
 Yes.
