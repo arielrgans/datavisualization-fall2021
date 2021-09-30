@@ -78,7 +78,7 @@ I thought as far as the graphics were concerned that the type was not used well.
 **Explain**
 They used dark red to indicate higher numbers, and lighter colors to indicated lower ones, which made sense. The blue and yellow in the bar chart did not though. Each color had three shades and the same shades were used to differentiate different things, which got confusing. What I thought made the least sense though was using white text in yellow text bozxes throughout the piece. It was difficult to read and was used for captions as well as pulled quotes.
 
-*Creativity
+*Creativity*
 
 **Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?**
 Yes, but not much.
