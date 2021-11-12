@@ -1,1 +1,1 @@
-**Cocoa bean imports graphic using datawrapper**: https://www.datawrapper.de/_/laZDp/
+**Datawrapper graphic**: https://www.datawrapper.de/_/laZDp/
