@@ -9,4 +9,4 @@
 
 **2016 top opponent data**: https://www.followthemoney.org/entity-details?eid=9691837
 
-**Visualization**: https://www.datawrapper.de/_/z8tnc/
+**Data visualization**: https://www.datawrapper.de/_/z8tnc/
