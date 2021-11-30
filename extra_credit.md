@@ -1,7 +1,12 @@
-Make sure your viz has a headline, chatter/subhed and a source.
 
-**Link to data**: https://www.followthemoney.org/entity-details?eid=12996931 
+**News story**: https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html
 
-**Link to news story**: https://www.politico.com/states/new-york/albany/story/2021/11/29/suozzi-becomes-fourth-democrat-to-enter-new-york-governors-race-1395961
+**Chris Sununu data**: https://www.followthemoney.org/entity-details?eid=13010188
 
-**Image file**: 
+**2020 top opponent data**: https://www.followthemoney.org/entity-details?eid=15799679
+
+**2018 top opponent data**: https://www.followthemoney.org/entity-details?eid=42830976
+
+**2016 top opponent data**: https://www.followthemoney.org/entity-details?eid=9691837
+
+**Visualization**: https://www.datawrapper.de/_/z8tnc/
